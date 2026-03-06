@@ -1,7 +1,8 @@
 # Marketing-campaign-ROI-and-conversion-Analysis
 ## Project Overview
 
-This project analyzes the performance of digital marketing campaigns across multiple channels and locations. The objective is to evaluate campaign effectiveness, measure return on investment (ROI), and identify opportunities to improve marketing performance.
+This project analyzes the performance of digital marketing campaigns across multiple channels and locations. 
+The objective is to evaluate campaign effectiveness, measure return on investment (ROI), and identify opportunities to improve marketing performance.
 The analysis was performed using SQL for data preparation and Power BI for data modeling and visualization. A comprehensive dashboard was created to monitor marketing metrics such as revenue, cost, profit, conversions, and campaign performance.
 
 ## Problem Statement
@@ -16,7 +17,7 @@ Marketing teams invest heavily in multiple advertising channels but often strugg
 - How effectively do impressions convert into clicks and conversions?
 - What is the monthly trend of revenue generated from campaigns?
 
-Data Source
+## Data Source
 The dataset used in this project was obtained from Kaggle and contains simulated marketing campaign data.
 The dataset includes the following fields:
 - campaign_id
