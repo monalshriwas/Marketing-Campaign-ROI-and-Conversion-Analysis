@@ -19,7 +19,7 @@ Marketing teams invest heavily in multiple advertising channels but often strugg
 
 ## Dashboard
 
-![Dashboard](Dashboard_overview%20Image/Dashboard_overview.png)
+![Dashboard](Dashboard_overview/Dashboard_overview.png)
 
 ## Data Source
 The dataset used in this project was obtained from Kaggle and contains simulated marketing campaign data.
