@@ -17,6 +17,10 @@ Marketing teams invest heavily in multiple advertising channels but often strugg
 - How effectively do impressions convert into clicks and conversions?
 - What is the monthly trend of revenue generated from campaigns?
 
+## Dashboard
+
+![Dashboard](Dashboard_overview%20Image/Dashboard_overview.png)
+
 ## Data Source
 The dataset used in this project was obtained from Kaggle and contains simulated marketing campaign data.
 The dataset includes the following fields:
@@ -87,9 +91,6 @@ Visualizations included:
 - Marketing Funnel (Impressions → Clicks → Conversions)
 - Channel Performance (Cost vs Revenue)
 
-## Dashboard
-
-![Dashboard](Dashboard%20Image/dashboard_overview.png)
 
 ## Key Insights
 
